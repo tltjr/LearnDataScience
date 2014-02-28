@@ -1,4 +1,4 @@
-class Test:
+class Util:
     def hello(self, x):
         return "hello " + x
 
